@@ -19,9 +19,11 @@ jobs:
       - name: Update age on README
         run: python update_age.py
 
-      - name: Commit changes
+      - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git commit -am "Update age (hours)" || exit 0
+          git pull --rebase
+          git diff --quiet || git commit -am "Update age (hours)"
           git push
+
