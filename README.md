@@ -1,2 +1,9 @@
+# Hey, I'm Nicolas!
+
+<!-- AGE_START -->
+I was born calculating… hours ago
+<!-- AGE_END -->
+
+
 ![nicolas-riera's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=nicolas-riera&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=nicolas-riera&theme=blue-navy&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)
