@@ -1,7 +1,7 @@
 # Hey, I'm Nicolas!
 
 <!-- AGE_START -->
-I was born calculating… hours ago
+I was born 170,259 hours ago
 <!-- AGE_END -->
 
 
