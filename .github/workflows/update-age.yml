@@ -16,7 +16,7 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Update README
+      - name: Update age on README
         run: python update_age.py
 
       - name: Commit changes

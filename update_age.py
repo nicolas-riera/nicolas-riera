@@ -15,7 +15,7 @@ before = content.split(start)[0]
 after = content.split(end)[1]
 
 new_block = f"""{start}
-I was born {hours:,} hours ago
+- 🎈 I was born {hours:,} hours ago
 {end}"""
 
 with open("README.md", "w", encoding="utf-8") as f:
