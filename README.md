@@ -15,7 +15,7 @@
 
 ## 🌐 Find me online
 
-- 👽 **Reddit**: [u/Nicalay2](https://www.reddit.com/user/Nicalay2/)
+- ![reddit](https://img.shields.io/badge/-FFFFFF?logo=reddit) **Reddit**: [u/Nicalay2](https://www.reddit.com/user/Nicalay2/)
 - 💼 **LinkedIn**: [Nicolas Riera](https://www.linkedin.com/in/riera-nicolas)
 
 ## 📊 GitHub stats
