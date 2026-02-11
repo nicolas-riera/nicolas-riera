@@ -11,9 +11,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Stash
+      - name: Stash and pull
         run: |
             git stash
+            git pull
 
       - name: Set up Python
         uses: actions/setup-python@v5
