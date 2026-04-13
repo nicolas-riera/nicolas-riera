@@ -23,7 +23,8 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=000&title_color=f7ac31&text_color=fff          path: profile/languages.svg
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=000&title_color=f7ac31&text_color=fff
+          path: profile/languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push cards
