@@ -23,7 +23,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&bg_color=000&border_color=000&text_color=fff&title_color=f7ac31
+          options: username=${{ github.repository_owner }}&&layout=compact&hide_border=true&bg_color=0d1117&title_color=f7ac31&text_color=fff
           path: profile/languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
