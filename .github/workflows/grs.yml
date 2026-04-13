@@ -25,7 +25,6 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=000&title_color=f7ac31&text_color=fff
           path: profile/languages.svg
-          path: profile/languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push cards
