@@ -13,11 +13,6 @@
 - 🔍 Enjoys understanding systems, networks, and software internals  
 - 🚀 Always learning, always experimenting
 
-## 🌐 Find me online
-
-- ![reddit](https://img.shields.io/badge/-FFFFFF?logo=reddit) **Reddit**: [u/Nicalay2](https://www.reddit.com/user/Nicalay2/)
-- 💼 **LinkedIn**: [Nicolas Riera](https://www.linkedin.com/in/riera-nicolas)
-
 ## 📊 GitHub stats
 
 ![nicolas-riera's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=nicolas-riera&theme=tokyonight&hide_border=true)  
