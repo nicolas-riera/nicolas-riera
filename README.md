@@ -7,7 +7,7 @@
 ## ⏱️ About me
 
 <!-- AGE_START -->
-- 🎈 I was born 173,074 hours ago
+- 🎈 I was born 173,076 hours ago
 <!-- AGE_END -->
 - 💻 Loves **VR**, **PC building**, and tech tinkering  
 - 🔍 Enjoys understanding systems, networks, and software internals  
