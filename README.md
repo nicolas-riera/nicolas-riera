@@ -15,7 +15,7 @@
 
 ## 📊 GitHub stats
 
-![nicolas-riera's GitHub stats](https://github-stats-extended.vercel.app/api?username=nicolas-riera&theme=tokyonight&hide_border=true)  
+![Stats](./profile/stats.svg)
 
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
