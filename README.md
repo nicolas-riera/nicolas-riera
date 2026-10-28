@@ -15,7 +15,7 @@
 
 ## 📊 GitHub stats
 
-![nicolas-riera's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=nicolas-riera&theme=tokyonight&hide_border=true)  
+![nicolas-riera's GitHub stats](https://github-stats-extended.vercel.app/api?username=nicolas-riera&theme=tokyonight&hide_border=true)  
 
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
