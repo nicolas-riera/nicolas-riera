@@ -18,9 +18,7 @@ end = "<!-- AGE_END -->"
 before = content.split(start)[0]
 after = content.split(end)[1]
 
-new_block = f"""{start}
-- {emoji} I was born {hours:,} hours ago
-{end}"""
+new_block = f"""{start}{emoji} I was born {hours:,} hours ago{end}"""
 
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(before + new_block + after)
